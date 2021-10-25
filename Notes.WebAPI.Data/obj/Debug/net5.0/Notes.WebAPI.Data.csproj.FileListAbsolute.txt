@@ -1,0 +1,12 @@
+D:\Projects\Notes.WebAPI\Notes.WebAPI.Data\bin\Debug\net5.0\Notes.WebAPI.Data.deps.json
+D:\Projects\Notes.WebAPI\Notes.WebAPI.Data\bin\Debug\net5.0\Notes.WebAPI.Data.dll
+D:\Projects\Notes.WebAPI\Notes.WebAPI.Data\bin\Debug\net5.0\ref\Notes.WebAPI.Data.dll
+D:\Projects\Notes.WebAPI\Notes.WebAPI.Data\bin\Debug\net5.0\Notes.WebAPI.Data.pdb
+D:\Projects\Notes.WebAPI\Notes.WebAPI.Data\obj\Debug\net5.0\Notes.WebAPI.Data.csproj.AssemblyReference.cache
+D:\Projects\Notes.WebAPI\Notes.WebAPI.Data\obj\Debug\net5.0\Notes.WebAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Notes.WebAPI\Notes.WebAPI.Data\obj\Debug\net5.0\Notes.WebAPI.Data.AssemblyInfoInputs.cache
+D:\Projects\Notes.WebAPI\Notes.WebAPI.Data\obj\Debug\net5.0\Notes.WebAPI.Data.AssemblyInfo.cs
+D:\Projects\Notes.WebAPI\Notes.WebAPI.Data\obj\Debug\net5.0\Notes.WebAPI.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Notes.WebAPI\Notes.WebAPI.Data\obj\Debug\net5.0\Notes.WebAPI.Data.dll
+D:\Projects\Notes.WebAPI\Notes.WebAPI.Data\obj\Debug\net5.0\ref\Notes.WebAPI.Data.dll
+D:\Projects\Notes.WebAPI\Notes.WebAPI.Data\obj\Debug\net5.0\Notes.WebAPI.Data.pdb
